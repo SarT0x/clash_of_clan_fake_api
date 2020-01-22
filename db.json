@@ -1,0 +1,253 @@
+{
+  "clans": [
+      {
+        "tag": "#RYYC2VVR",
+        "name": "Gre 6",
+        "type": "closed",
+        "location": {
+            "id": 32000219,
+            "name": "Sri Lanka",
+            "isCountry": true,
+            "countryCode": "LK"
+        },
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/TDMJ_3bCMKpmnuJM-1WcFKpb0TOtvts6PMtDLHzJvaM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/TDMJ_3bCMKpmnuJM-1WcFKpb0TOtvts6PMtDLHzJvaM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/TDMJ_3bCMKpmnuJM-1WcFKpb0TOtvts6PMtDLHzJvaM.png"
+        },
+        "clanLevel": 14,
+        "clanPoints": 16735,
+        "clanVersusPoints": 13955,
+        "requiredTrophies": 400,
+        "warFrequency": "always",
+        "warWinStreak": 0,
+        "warWins": 210,
+        "warTies": 27,
+        "warLosses": 148,
+        "isWarLogPublic": true,
+        "members": 27,
+        "labels": [
+            {
+                "id": 56000007,
+                "name": "International",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/labels/64/zyaTKuJXrsPiU3DvjgdqaSA6B1qvcQ0cjD6ktRah4xs.png",
+                    "medium": "https://api-assets.clashofclans.com/labels/128/zyaTKuJXrsPiU3DvjgdqaSA6B1qvcQ0cjD6ktRah4xs.png"
+                }
+            },
+            {
+                "id": 56000010,
+                "name": "Friendly",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/labels/64/hM7SHnN0x7syFa-s6fE7LzeO5yWG2sfFpZUHuzgMwQg.png",
+                    "medium": "https://api-assets.clashofclans.com/labels/128/hM7SHnN0x7syFa-s6fE7LzeO5yWG2sfFpZUHuzgMwQg.png"
+                }
+            },
+            {
+                "id": 56000013,
+                "name": "Relaxed",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/labels/64/Kv1MZQfd5A7DLwf1Zw3tOaUiwQHGMwmRpjZqOalu_hI.png",
+                    "medium": "https://api-assets.clashofclans.com/labels/128/Kv1MZQfd5A7DLwf1Zw3tOaUiwQHGMwmRpjZqOalu_hI.png"
+                }
+            }
+        ]
+    },
+    {
+        "tag": "#GQRYRGJV",
+        "name": "gre",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/BIZ4D9ihzimhDQ4y8GKb0VbXvJKDiLVIJ_MyIQxDVLA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/BIZ4D9ihzimhDQ4y8GKb0VbXvJKDiLVIJ_MyIQxDVLA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/BIZ4D9ihzimhDQ4y8GKb0VbXvJKDiLVIJ_MyIQxDVLA.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 768,
+        "clanVersusPoints": 25,
+        "requiredTrophies": 200,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 3,
+        "labels": []
+    },
+    {
+        "tag": "#Q929CQUG",
+        "name": "gre",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 5281,
+        "clanVersusPoints": 3356,
+        "requiredTrophies": 0,
+        "warFrequency": "always",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 25,
+        "labels": []
+    },
+    {
+        "tag": "#R8GL9QQC",
+        "name": "gre",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/g3TaXumWaSS1CMifB-fpK46PDDdGOrLsd5zNgkTEJXI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/g3TaXumWaSS1CMifB-fpK46PDDdGOrLsd5zNgkTEJXI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/g3TaXumWaSS1CMifB-fpK46PDDdGOrLsd5zNgkTEJXI.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 770,
+        "clanVersusPoints": 316,
+        "requiredTrophies": 0,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 6,
+        "labels": []
+    },
+    {
+        "tag": "#CQ8CL8RJ",
+        "name": "gre",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 701,
+        "clanVersusPoints": 324,
+        "requiredTrophies": 0,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 2,
+        "labels": []
+    },
+    {
+        "tag": "#VQ8RGJ2J",
+        "name": "gre",
+        "type": "inviteOnly",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 348,
+        "clanVersusPoints": 531,
+        "requiredTrophies": 0,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 1,
+        "labels": []
+    },
+    {
+        "tag": "#YUL089CY",
+        "name": "GRE",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 3342,
+        "clanVersusPoints": 563,
+        "requiredTrophies": 0,
+        "warFrequency": "oncePerWeek",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 12,
+        "labels": []
+    },
+    {
+        "tag": "#PRVL929Y",
+        "name": "gre",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/cl2yZ0cYZqmeJZM__cQoAtYuil5B1fMisdMzJQj0Bx0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/cl2yZ0cYZqmeJZM__cQoAtYuil5B1fMisdMzJQj0Bx0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/cl2yZ0cYZqmeJZM__cQoAtYuil5B1fMisdMzJQj0Bx0.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 455,
+        "clanVersusPoints": 0,
+        "requiredTrophies": 0,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 4,
+        "labels": []
+    },
+    {
+        "tag": "#V28J8Q90",
+        "name": "gre",
+        "type": "closed",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/mwNaz0Ex7O7NMrFcGo71bPAOE-b-iMsROA1aIRqguS8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/mwNaz0Ex7O7NMrFcGo71bPAOE-b-iMsROA1aIRqguS8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/mwNaz0Ex7O7NMrFcGo71bPAOE-b-iMsROA1aIRqguS8.png"
+        },
+        "clanLevel": 2,
+        "clanPoints": 5008,
+        "clanVersusPoints": 3705,
+        "requiredTrophies": 0,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 8,
+        "isWarLogPublic": false,
+        "members": 19,
+        "labels": []
+    },
+    {
+        "tag": "#8YCQQLQY",
+        "name": "GRE",
+        "type": "open",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8SJumwsMMsZEi2kUdKNBHhzZHxuALiypOgY5PhbcLo4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8SJumwsMMsZEi2kUdKNBHhzZHxuALiypOgY5PhbcLo4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8SJumwsMMsZEi2kUdKNBHhzZHxuALiypOgY5PhbcLo4.png"
+        },
+        "clanLevel": 1,
+        "clanPoints": 576,
+        "clanVersusPoints": 0,
+        "requiredTrophies": 1200,
+        "warFrequency": "unknown",
+        "warWinStreak": 0,
+        "warWins": 0,
+        "warTies": 0,
+        "warLosses": 0,
+        "isWarLogPublic": true,
+        "members": 1,
+        "labels": []
+    }
+  ]
+}
